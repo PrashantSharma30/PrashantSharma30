@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @PrashantSharma30
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Prashant Sharma
 
-<!---
-PrashantSharma30/PrashantSharma30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 M.Tech CSE Student at **IIIT Bangalore**  
+🔬 Passionate about **Data Science**, **Machine Learning**, and solving real-world problems using data.  
+📊 Currently building projects in Python, Pandas, scikit-learn, and Streamlit.  
+🌱 Actively learning: Deep Learning, NLP, and Data Engineering tools.
+
+
+## 📫 Get in Touch
+- 📧 Email: prashantsharmaindia1@gmail.com
+- 💼 LinkedIn:https://www.linkedin.com/in/prashantsharma3006/
+
+---
+
+⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me.*
